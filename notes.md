@@ -18,4 +18,9 @@ Miriam, PhD student, is talking about LLM projects
 - Non-Traditional Active Learning: Training LLMs is resource intensive. Active learning reduces annotation effort by picking the most informative samples. Classic methods are uncertainty, diverstiy, model disagreement, ect.
 - Noisy Labels, Weak/Self Supervision: A model that trains itself with no labels. Add label confidence/quality to loss function as new dimention.
 - Legal Document Summarization: Summarize legal documents because they are very long. Summarize module, revision and judging module, long term memory store.
-- Unsupervised Learning / Clustering: Apply natural language text embeddings to improve interpretability of textual data representations. 
+- Unsupervised Learning / Clustering: Apply natural language text embeddings to improve interpretability of textual data representations.
+
+## 2/3/2026
+- Come up with a uuraf thing to show to Dr. Colbry
+- Talk about your project in it
+- Send it to Dr. Colbry
