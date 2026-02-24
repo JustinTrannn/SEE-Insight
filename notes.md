@@ -24,3 +24,17 @@ Miriam, PhD student, is talking about LLM projects
 - Come up with a uuraf thing to show to Dr. Colbry
 - Talk about your project in it
 - Send it to Dr. Colbry
+
+## 2/24/2026
+- Guest speaker: Dr. Rodriguez
+- DRIVE lab - research focus areas
+### Project 1: Early identification of HPAI in cows during outbreaks in robotic milking systems
+- High pathogenic avian influenza (HPAI) is a zoonotic disease
+- About 300,000 observations
+- We also have infection status of cows during the outbreak
+- Data in videos and ~20% already in Excel format using a numbers recognition software
+- Taking data from milking cows to see if they are getting sick or are sick. That way they can be seperated from the rest of the cows
+### Project 2: Predict ketosis postpartum based on metabolic parameters measure prepartum
+- Ketosis is a metabolic disease affecting dairy cows
+- Dataset of 120 cows measures 5 times each, with 16 metabolites per time point
+- The objective is to predict detosis
