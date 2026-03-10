@@ -38,3 +38,9 @@ Miriam, PhD student, is talking about LLM projects
 - Ketosis is a metabolic disease affecting dairy cows
 - Dataset of 120 cows measures 5 times each, with 16 metabolites per time point
 - The objective is to predict detosis
+
+## 3/10/2026
+- Mihar finished the paper polymers
+- Pipline steps: Image loading, hough transform (remove BG), CLAHE (equalize lighting), thresholding and measurement, convert area_px to area_mm^2
+- He said he did not use PyTorch or TensorFlow. No neural networks used. He used OpenCV and Dr. Colbry said that a heuristic based approach and classical results.
+- Cache is the compromise between NN, which he says you won't know what they're doing, because you can interpret it
