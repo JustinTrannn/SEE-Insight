@@ -53,3 +53,6 @@ Miriam, PhD student, is talking about LLM projects
 - Kanban. Used a lot in industry. To help with organization of projects?
 - People giving updates on their projects
 - Next week, we will discuss when these meetings will be next semester
+
+## 4/7/2026
+- VIP discussion on April 14th 12:30-2:30pm. Dr. Colbry is trying to get faculty to try this VIP setup for next year
