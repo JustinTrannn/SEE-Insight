@@ -56,3 +56,11 @@ Miriam, PhD student, is talking about LLM projects
 
 ## 4/7/2026
 - VIP discussion on April 14th 12:30-2:30pm. Dr. Colbry is trying to get faculty to try this VIP setup for next year
+
+## 9/15/2026
+- Week 3 of this class
+- I'm in a project this year and it's "Automatic Plate Segmentation and Colony Feature Extraction"
+- The goal is to count the number of colonies in a petri dish. Within the petri dish, it will be segmented into four parts. Each part has its own group of bacteria.
+- I am currently reading some papers that Aadhya sent me
+- After reading the articles, I think this will be difficult to achieve. There's a lot of methods that I haven't heard of such as watershed segmentation and using local minima based stuff. They've already come up with a counter called CFUCounter and it did pretty well. Not sure if that's possible for to create something better than that but I'm sure it's possible.
+- Article: Machine learning for enumeration of cell colony forming units by Louis Zhang
