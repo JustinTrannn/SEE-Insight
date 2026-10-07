@@ -1,0 +1,43 @@
+sample_date,culture_date,farm_name,cow_id,quarter,delaval_quarter,result24,color_24,hemolysis_24,size_24,colony_count_24,result24_isolate2,colony2_size,colony_count_24_2,result48,color_48,hemolysis_48,size_48,colony_count_48,result48_isolate2,colony_count_48_2,colony2_size_48,maldi_result_original,logscore,maldi,maldi_results_2_plate,maldi_results_2_well,updated_id,maldi_result,visit_number,treatment_assigned,fdat,lact
+7/1/2025,2025-07-07 00:00:00 UTC,W,10750,LF,D,,Grey,ahem,S,45,,,,,Grey,ahem,S,45,,,,Lactococcus garvieae,2.36,Yes,96,C1,0,Lactococcus garvieae,4,0.25%,11/22/2024,3
+4/11/2025,2025-04-16 00:00:00 UTC,W,11618,RR,A,,Yellow,ahem,M,3,,,,,Yellow,ahem,M,3,,,,Staphylococcus chromogenes,2.58,Yes,5,F11,0,Staphylococcus chromogenes,1,0.25%,3/10/2025,4
+4/11/2025,2025-04-16 00:00:00 UTC,W,1164,LF,D,,Grey,ahem,S,4000,,,,,Grey,ahem,S,4000,,,,Streptococcus dysgalactiae,1.94,Yes,5,C5,0,Streptococcus dysgalactiae,1,0.25%,7/11/2025,2
+4/11/2025,2025-04-16 00:00:00 UTC,W,1164,RR,A,,Yellow,ahem,M,4000,,,,,Yellow,ahem,M,4000,,,,Staphylococcus chromogenes,2.32,Yes,6,C3,0,Staphylococcus chromogenes,1,0.25%,7/11/2025,2
+4/11/2025,2025-04-16 00:00:00 UTC,W,11716,RF,C,,Grey,ahem,S,77,,,,,Grey,ahem,S,77,,,,,,Yes,,,0,,1,0.25%,12/18/2024,4
+4/11/2025,2025-04-16 00:00:00 UTC,W,11716,LF,D,,Grey,ahem,S,4000,,,,CONT,,,,,,,,Lactococcus garvieae,2.04,No,2,B9,0,contaminated,1,0.25%,12/18/2024,4
+5/6/2025,2025-05-12 00:00:00 UTC,W,13127,LF,D,,Cream,ahem,S,150,,,,,Cream,ahem,S,150,,,,Staphylococcus chromogenes,2.44,Yes,28,F1,0,Staphylococcus chromogenes,2,0.25%,2/12/2024,1
+4/11/2025,2025-04-16 00:00:00 UTC,W,13178,RR,A,,Grey,ahem,S,4000,,,,,Grey,ahem,S,4000,,,,Lactococcus lactis,2.14,Yes,1,G7,0,Lactococcus lactis,1,0.25%,1/15/2025,2
+5/6/2025,2025-05-12 00:00:00 UTC,W,1335,RR,A,,Yellow,ahem,M,78,,,,,Yellow,ahem,M,78,,,,Staphylococcus chromogenes,2.38,Yes,30,H5,0,Staphylococcus chromogenes,2,0.25%,10/20/2024,2
+5/6/2025,2025-05-12 00:00:00 UTC,W,13853,RF,C,,White,ahem,S,21,,,,,White,Bhem,S,21,,,,Staphylococcus haemolyticus,1.89,Yes,27,C9,0,Staphylococcus haemolyticus,2,0.25%,10/4/2024,1
+7/29/2025,2025-08-04 00:00:00 UTC,W,1390,LR,B,,Grey/White,ahem,M,7,,,,,Grey/White,ahem,M,7,,,,Aerococcus viridans,1.9,Yes,128,F9,0,Aerococcus viridans,5,1%,10/5/2024,1
+5/6/2025,2025-05-12 00:00:00 UTC,W,1405,LF,D,,Grey,ahem,S,4,,,,,Grey,ahem,S,4,,,,Enterococcus faecium,2.02,,30,B7,0,Enterococcus faecium,2,0.25%,10/2/2024,2
+5/6/2025,2025-05-12 00:00:00 UTC,W,15025,RR,A,,Cream,ahem,S,4000,,,,,Cream,ahem,S,4000,,,,Staphylococcus chromogenes,2.41,Yes,27,G9,0,Staphylococcus chromogenes,2,0.25%,4/28/2024,1
+4/11/2025,2025-04-16 00:00:00 UTC,W,15025,RR,A,,White,ahem,M,4000,,,,,White,ahem,M,4000,,,,Staphylococcus chromogenes,2.4,,3,A1,0,Staphylococcus chromogenes,1,0.25%,4/28/2024,1
+4/11/2025,2025-04-16 00:00:00 UTC,W,15048,RF,C,,White,ahem,S,4000,,,,,White,ahem,S,4000,,,,Staphylococcus simulans,2.42,Yes,5,C9,0,Staphylococcus simulans,1,0.25%,5/8/2024,1
+6/3/2025,2025-06-09 00:00:00 UTC,W,15048,RF,C,,Grey,ahem,S,4000,,,,,Grey,ahem,S,4000,,,,Staphylococcus simulans,2.39,Yes,70,B3,0,Staphylococcus simulans,3,0.25%,5/8/2024,1
+4/11/2025,2025-04-16 00:00:00 UTC,W,15317,RF,C,,White,ahem,S,69,,,,,White,ahem,S,69,,,,Staphylococcus chromogenes,2.42,Yes,4,H9,0,Staphylococcus chromogenes,1,0.25%,6/5/2024,1
+4/11/2025,2025-04-16 00:00:00 UTC,W,15408,RR,A,,White,ahem,L,4000,,,,,White,ahem,L,4000,,,,Staphylococcus simulans,2.48,Yes,3,H3,0,Staphylococcus simulans,1,0.25%,6/19/2024,1
+7/29/2025,2025-08-04 00:00:00 UTC,W,156,LF,D,,Grey,ahem,S,200,,,,CONT,,,,,,,,Streptococcus uberis,2.28,Yes,129,E5,0,contaminated,5,1%,12/30/2024,5
+7/29/2025,2025-08-04 00:00:00 UTC,W,156,RR,A,,Grey,ahem,S,9,,,,,Grey,Ahem/yhem,S,9,,4,S,Lactococcus lactis,2.29,Yes,129,E1,0,Lactococcus lactis,5,1%,12/30/2024,5
+4/11/2025,2025-04-16 00:00:00 UTC,W,16605,LR,B,,Grey,ahem,S,28,,,,,Grey,ahem,S,28,,,,Lactococcus lactis,2.12,Yes,6,F3,0,Lactococcus lactis,1,0.25%,1/9/2025,5
+4/11/2025,2025-04-16 00:00:00 UTC,W,1664,RR,A,,Grey,ahem,S,97,,,,,Grey,ahem,S,97,,,,Enterococcus saccharolyticus,2.35,Yes,3,E3,0,Enterococcus saccharolyticus,1,0.25%,10/19/2024,6
+5/6/2025,2025-05-12 00:00:00 UTC,W,1664,RR,A,,Grey,ahem,S,4000,,,,CONT,,,,,,,,Enterococcus saccharolyticus,2.29,Yes,30,C5,0,contaminated,2,0.25%,10/19/2024,6
+4/11/2025,2025-04-16 00:00:00 UTC,W,16676,RR,A,,White,ahem,S,3,,,,,White,ahem,S,3,,,,Corynebacterium glutamicum,2.4,Yes,4,C11,0,Corynebacterium glutamicum,1,0.25%,10/18/2024,4
+9/26/2025,2025-09-29 00:00:00 UTC,W,16843,LR,B,,Grey,ahem,S,5,,,,CONT,,,,,,,,Aerococcus viridans,2.07,No,190,G9,0,contaminated,7,1%,3/2/2025,5
+7/1/2025,2025-07-07 00:00:00 UTC,W,17576,RR,A,,White/Gray,ahem,S,3,,,,CONT,,,,,,,,Aerococcus viridans,1.82,Yes,97,F9,0,contaminated,4,0.25%,5/11/2025,4
+4/11/2025,2025-04-16 00:00:00 UTC,W,1758,RR,A,,Grey,ahem,S,25,,,,CONT,,,,,,,,Aerococcus viridans,2.2,No,5,H5,0,contaminated,1,0.25%,12/20/2024,6
+4/11/2025,2025-04-16 00:00:00 UTC,W,17687,LF,D,,Grey,ahem,M,57,,,,,Grey,ahem,M,57,,,,Lactococcus garvieae,2.24,,3,B7,0,Lactococcus garvieae,1,0.25%,5/20/2024,3
+4/11/2025,2025-04-16 00:00:00 UTC,W,17687,LR,B,,Grey,ahem,M,68,,,,,Grey,ahem,M,68,,,,Lactococcus garvieae,2.3,,3,B5,0,Lactococcus garvieae,1,0.25%,5/20/2024,3
+4/11/2025,2025-04-16 00:00:00 UTC,W,1778,LR,B,,Grey,ahem,L,8,,,,,Grey,ahem,L,8,,,,Enterococcus saccharolyticus,2.2,Yes,4,C7,0,Enterococcus saccharolyticus,1,0.25%,10/5/2024,3
+7/1/2025,2025-07-07 00:00:00 UTC,W,18200,RR,A,,Grey,ahem,S,39,,,,,Grey,ahem,S,39,,,,Lactococcus lactis,2,Yes,99,A9,0,Lactococcus lactis,4,0.25%,1/3/2025,3
+4/11/2025,2025-04-16 00:00:00 UTC,W,18458,LR,B,,Grey,ahem,S,4000,,,,CONT,,,,,,,,,,No,,,0,contaminated,1,0.25%,2/13/2025,2
+4/11/2025,2025-04-16 00:00:00 UTC,W,1953,RR,A,,Grey,ahem,M,5,,,,CONT,,,,,,,,Corynebacterium glutamicum,2.29,No,2,E9,0,contaminated,1,0.25%,10/31/2024,2
+5/6/2025,2025-05-12 00:00:00 UTC,W,1953,RR,A,,Yellow,ahem,M,20,,,,,Yellow,ahem,M,20,,,,Staphylococcus aureus,2.4,Yes,27,A5,0,Staphylococcus aureus,2,0.25%,10/31/2024,2
+4/11/2025,2025-04-16 00:00:00 UTC,W,19653,LF,D,,White,ahem,M,4000,,,,,White,ahem,M,4000,,,,Staphylococcus chromogenes,2.31,Yes,3,D11,0,Staphylococcus chromogenes,1,0.25%,10/27/2024,1
+4/11/2025,2025-04-16 00:00:00 UTC,W,19653,LR,B,,Yellow,ahem,M,4000,,,,,Yellow,ahem,M,4000,,,,Staphylococcus chromogenes,2.45,Yes,3,D9,0,Staphylococcus chromogenes,1,0.25%,10/27/2024,1
+4/11/2025,2025-04-16 00:00:00 UTC,W,19653,RR,A,,White,ahem,M,4000,,,,,White,ahem,M,4000,,,,Staphylococcus chromogenes,2.31,Yes,3,D7,0,Staphylococcus chromogenes,1,0.25%,10/27/2024,1
+4/11/2025,2025-04-16 00:00:00 UTC,W,2010,LF,D,,Grey,ahem,S,4000,,,,,Grey,ahem,S,4000,,,,Streptococcus dysgalactiae,2.32,Yes,2,C7,0,Streptococcus dysgalactiae,1,0.25%,11/14/2024,5
+4/11/2025,2025-04-16 00:00:00 UTC,W,2010,LR,B,,White,ahem,S,18,,,,,White,ahem,S,18,,,,Streptococcus dysgalactiae,2.29,Yes,2,C9,0,Streptococcus dysgalactiae,1,0.25%,11/14/2024,5
+5/6/2025,2025-05-12 00:00:00 UTC,W,2010,LF,D,,Grey,ahem,S,58,,,,,Grey,ahem,S,58,,,,Streptococcus dysgalactiae,2.32,Yes,30,B5,0,Streptococcus dysgalactiae,2,0.25%,11/14/2024,5
+6/3/2025,2025-06-09 00:00:00 UTC,W,2010,LR,B,,Translucent,ahem,S,4000,,,,,Translucent/yellow,ahem,S,4000,,4000,L,Streptococcus dysgalactiae,2.27,Yes,73,B8,0,Streptococcus dysgalactiae,3,0.25%,11/14/2024,5
+10/24/2025,2025-10-27 00:00:00 UTC,W,2012,LF,D,,Grey,ahem,S,22,,,,,Grey,ahem,S,22,,,,Enterococcus faecium,2.39,Yes,211,B3,0,Enterococcus faecium,8,1%,4/10/2025,3
