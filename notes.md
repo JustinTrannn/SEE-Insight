@@ -64,3 +64,19 @@ Miriam, PhD student, is talking about LLM projects
 - I am currently reading some papers that Aadhya sent me
 - After reading the articles, I think this will be difficult to achieve. There's a lot of methods that I haven't heard of such as watershed segmentation and using local minima based stuff. They've already come up with a counter called CFUCounter and it did pretty well. Not sure if that's possible for to create something better than that but I'm sure it's possible.
 - Article: Machine learning for enumeration of cell colony forming units by Louis Zhang
+
+## 9/28/2026
+- Start
+
+## 10/5/2026
+- Building out a way to start finding insights on the data
+- Dataset is very small. I'm not sure how I'm going to extract insights from a very small set of data
+- I'm asking ChatGPT to formulate a template for me to try to get my feet off the ground. The pipeline to getting this to work.
+
+## 10/12/2026
+- For the insights, I've concluded that it's very difficult to get good analysis of the data since the dataset is small
+- I've been following the template ChatGPT gave me. Analysis of data was the first step of the pipeline
+
+## 10/19/2026
+- This week, I'm going to try to segment a petri dish by itself
+- Maybe use one of the coding examples that Dr. Dirk gave us last week. That seemed useful.
