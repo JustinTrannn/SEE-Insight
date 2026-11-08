@@ -114,3 +114,9 @@ Miriam, PhD student, is talking about LLM projects
 - I think I have a better understanding of how image segmentation works now. Instead of detecting the Petri dish directly, I'm using several image processing techniques to gradually isolate it from the background.
 - My next step is to test the segmentation pipeline on more images and eventually divide each Petri dish into four quadrants.
 - One concern I still have is whether the HSV thresholds and other parameters will work consistently across images with different lighting and backgrounds.
+
+## 11/8/2026
+- Decided to crop the final image of the petri dish.
+- Created a new folder in the data folder called raw. It's made specifically for the raw images
+- Created a new folder in the data folder called segmented. It's made for the segmented petri dishes
+- Coded the segmented petri dish images to automatically save to the segmented folder
