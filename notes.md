@@ -120,3 +120,9 @@ Miriam, PhD student, is talking about LLM projects
 - Created a new folder in the data folder called raw. It's made specifically for the raw images
 - Created a new folder in the data folder called segmented. It's made for the segmented petri dishes
 - Coded the segmented petri dish images to automatically save to the segmented folder
+
+## 11/11/2026
+- Created 03_quandrant_segmentation notebook which will hopefully be able to sucessfully divide a petri dish into four parts
+- Turned BGR image into grayscale image in the 03_ipynb
+- Met with Dr. Colbry about this project. He said to note include more image data because committing adds the whole image to the history which adds up in memory. He also said to take a look at the guidelines for a Git Repo and one of his own tutorials on how to use Git.
+- I should look into using .gitignore
